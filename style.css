@@ -1,0 +1,42 @@
+body {
+    background-color: pink;
+}
+#container {
+    width: 100%;
+}
+#logo {
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 30px;
+    color: #f7f4f4;
+    position: relative;
+    left: 180px;
+    top: 20px;
+    text-transform: uppercase;
+}
+#address {
+    font-family: Geneva;
+    font-size: 15px;
+    color: #f7f4f4;
+    position: relative;
+    left: 380px;
+    top: 20px;
+}
+#phone {
+    font-family: Geneva;
+    font-size: 15px;
+    color: #f7f4f4;
+    position: relative;
+    left: 580px;
+    top: 20px;
+}
+.navbar {
+    background-color: #2b2929;
+    opacity: .8;
+    top: 30px;
+}
+.link {
+    font-family: Arial;
+    font-size: 14px;
+}
+
