@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-image: url(paint.jpg);
 }
 #container {
     width: 100%;
@@ -26,6 +26,7 @@ body {
 #phone {
     font-family: 'Noto Sans', sans-serif;
     font-size: 15px;
+    font-weight: bold;
     color: #f7f4f4;
     position: relative;
     left: 580px;
@@ -44,14 +45,17 @@ body {
     color: #f7f4f4; 
     text-decoration: none;
     margin: auto;
-    word-spacing: 5px;
+    word-spacing: normal;
 }
 a:hover {
     color: #ffc1aa;
     text-decoration: none;
 }
-#footer{
+#footer {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
     position: relative;
-    top:785pxs;
+    bottom: -570px;
+    margin-left: 5px;
 }
 
