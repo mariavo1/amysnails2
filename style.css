@@ -51,11 +51,18 @@ a:hover {
     color: #ffc1aa;
     text-decoration: none;
 }
+.jumbotron jumbotron-fluid{
+    background: transparent;
+  
+}
 #footer {
     font-family: 'Noto Sans', sans-serif;
     font-size: 14px;
     position: relative;
-    bottom: -570px;
     text-align: center;
+    bottom: ;
 }
 
+
+
+    
