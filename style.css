@@ -51,16 +51,28 @@ a:hover {
     color: #ffc1aa;
     text-decoration: none;
 }
-.jumbotron jumbotron-fluid{
-    background: transparent;
-  
-}
 #footer {
     font-family: 'Noto Sans', sans-serif;
     font-size: 14px;
     position: relative;
     text-align: center;
-    bottom: ;
+    bottom:-700px;
+}
+#box{
+    width: 300px;
+    padding: 25px;
+    margin-left: 100px;
+}
+#hours{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    position: relative;
+    text-align: center;
+    margin-right:60px;
+   margin-top: -500px;
+}
+.gmap_canvas{
+    margin-left:100px;
 }
 
 
