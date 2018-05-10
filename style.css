@@ -12,7 +12,7 @@ body {
     font-family: 'Poiret One', cursive;
     font-size: 31px;
     font-weight:bold;
-    color: #f7f4f4;
+    color: ;
     position: relative;
     left: 180px;
     top: 20px;
@@ -21,7 +21,7 @@ body {
 #address {
     font-size: 15px;
     font-weight: lighter;
-    color: #f7f4f4;
+    color: ;
     position: relative;
     left: 500px;
     top: 20px;
@@ -29,7 +29,7 @@ body {
 #phone {
     font-size: 15px;
     font-weight: lighter;
-    color: #f7f4f4;
+    color: ;
     position: relative;
     left: 800px;
     top: 20px;
@@ -44,7 +44,7 @@ body {
 .link {
     font-family: Arial;
     font-size: 14.5px;
-    color: #f7f4f4; 
+    color: ; 
     text-decoration: none;
     margin: auto;
     word-spacing: normal;
@@ -56,7 +56,7 @@ a:hover {
 #footer {
     background-color: #2b2929;
     opacity: .8;
-    color: #f7f4f4;
+    color: ;
     padding:15px;
     position: fixed;
     bottom:10px;
@@ -71,22 +71,19 @@ a:hover {
     height:720px;
     padding: 25px;
     margin: auto;
-    background-color: white;
-    opacity: .5;
+    background-color: rgba(255, 255, 255, 0.65);
 }
 #hours{
     font-family: 'Noto Sans', sans-serif;
     font-size: 14px;
-    position: relative;
     text-align: center;
+    position: relative;
     margin-right:60px;
     margin-top: -500px;
     width: 250px;
-    height:400px;
+    height:325px;
     padding: 25px;
-    margin: auto;
-    background-color: white;
-    opacity: .5;
+    background-color: rgba(255, 255, 255, 0.65);
 }
 .gmap_canvas{
     margin-left:100px;
@@ -94,10 +91,15 @@ a:hover {
 #description{
     margin-left:150px;
     margin-right:10px;
-    width:400px;
+    width:700px;
+    height:600px;
     padding:20px;
     background-color:white;
-    opacity:.5; 
+    background-color: rgba(255, 255, 255, 0.65); 
+}
+.about {
+    line-height: 45px;
+   font-size:25px;
 }
 #paragraph1{
     margin-left:100px;
@@ -106,7 +108,7 @@ a:hover {
     width: 250px;
     padding: 20px;
     background-color: white;
-    opacity: .8;
+    background-color: rgba(255, 255, 255, 0.65);
 }
 #paragraph2{
     margin-left:400px;
@@ -115,7 +117,7 @@ a:hover {
     width: 250px;
     padding: 20px;
     background-color: white;
-    opacity: .8;
+    background-color: rgba(255, 255, 255, 0.65);
 }
 #paragraph3{
     margin-left:680px;
@@ -124,7 +126,7 @@ a:hover {
     width: 250px;
     padding:10px;
     background-color:white;
-    opacity:.8;
+    background-color: rgba(255, 255, 255, 0.65);
 }
 #paragraph4{
     margin-left:100px;
@@ -132,7 +134,7 @@ a:hover {
     width:250px;
     padding:20px;
     background-color:white;
-    opacity:.8;
+    background-color: rgba(255, 255, 255, 0.65);
 }
 #paragraph5{
     margin-left:100px;
@@ -140,15 +142,14 @@ a:hover {
     width:250px;
     padding:20px;
     background-color:white;
-    opacity:.8;
+    background-color: rgba(255, 255, 255, 0.65);
 }
 #paragraph6{
     margin-left:100px;
     margin-right:100px;
     width:250px;
     padding:20px;
-    background-color:white;
-    opacity:.8;
+    background-color:rgba(255, 255, 255, 0.65);
 }
 
 
