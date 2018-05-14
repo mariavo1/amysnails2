@@ -56,6 +56,11 @@ a:hover {
 #welcome {
     font-size: 60px;
 }
+#hourshome {
+    position: relative;
+    bottom: 500px;
+    margin-left: 80px;
+}
 #footer {
     background-color: #2b2929;
     opacity: .8;
