@@ -75,8 +75,8 @@ a:hover {
      font-size: 14px;
 }
 .box {
-    width: 1600px;
-    height:720px;
+    width: 500px;
+    height: 175px;
     padding: 25px;
     margin: auto;
     background-color: rgba(255, 255, 255, 0.65);
@@ -104,15 +104,17 @@ a:hover {
 #description {
     margin-left:150px;
     margin-right:10px;
+    position: relative;
+    left: 340px;
     width:700px;
-    height:600px;
+    height:375px;
     padding:20px;
     background-color:white;
     background-color: rgba(255, 255, 255, 0.65); 
 }
 .about {
    line-height: 45px;
-   font-size:19px;
+   font-size:18px;
    margin-top:25px;
 }
 #letter {
@@ -199,4 +201,7 @@ a:hover {
     background-color: rgba(255, 255, 255, 0.65);
     width:410px;
     padding:25px;
+}
+#here{
+    font-size:18px;
 }
