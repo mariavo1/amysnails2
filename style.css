@@ -179,8 +179,8 @@ a:hover {
 }
 #serviceimg {
     width: 1650px;
-    margin-left: 13px;
-    margin-top: 2px;
+    margin-left: 0px;
+    margin-top: 5px;
 }
 #carouselExampleSlidesOnly {
     height: 100px;
