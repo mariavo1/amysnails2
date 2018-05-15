@@ -8,6 +8,15 @@ body {
 #container-fluid {
     width: 100%;
 }
+#fluid{
+    width: 100%;
+}
+#container{
+    width: 100%;
+}
+.con{
+    width: 100%;
+}
 #logo {
     font-family: 'Poiret One', cursive;
     font-size: 31px;
@@ -184,9 +193,9 @@ a:hover {
     background-color: rgba(255, 255, 255, 0.65);
 }
 #serviceimg {
-    width: 1650px;
-    margin-left: 0px;
-    margin-top: 5px;
+    width: 1620px;
+    margin-left:30px;
+    margin-top:5px;
 }
 #carouselExampleSlidesOnly {
     height: 10px;
