@@ -5,7 +5,7 @@ body {
     background-origin: padding-box;
     background-color: white;
 }
-.container {
+#container-fluid {
     width: 100%;
 }
 #logo {
@@ -34,20 +34,26 @@ body {
     left: 800px;
     top: 20px;
 }
-.navbar {
+.navbar { 
     background-color: #2b2929;
     opacity: .8;
     top: 30px;
-    padding: 20px;
-    margin: auto;
+    padding: 15px;
+}
+.navbar li {
+    display: inline;
+    margin: 155px;
+    position: relative;
+    top: 5px;
 }
 .link {
     font-family: Arial;
-    font-size: 14.5px;
+    font-size: 15px;
     color: #f7f4f4; 
     text-decoration: none;
     margin: auto;
     word-spacing: normal;
+    letter-spacing: 1px;
 }
 a:hover {
     color: #7a2d2d;
@@ -216,8 +222,27 @@ a:hover {
     height:650px;
     padding:10px;
     margin-left:800px;
-    margin-top:-670px;
+    margin-top:-675px;
 }
-
-
-
+.cap {
+    color: black;
+}
+.tion{
+    color:black;
+}
+#mani{
+    margin-left:2px;
+    width: 600px;
+    height: 250px;
+    padding: 20px;
+    background-color: white;
+    background-color: rgba(255, 255, 255, 0.65);
+}
+#pedi{
+    margin-left:2px;
+    width: 528px;
+    height: 250px;
+    padding: 20px;
+    background-color: white;
+    background-color: rgba(255, 255, 255, 0.65);
+}
