@@ -183,16 +183,16 @@ a:hover {
     margin-top: 5px;
 }
 #carouselExampleSlidesOnly {
-    height: 100px;
-    width: 200px;
-    margin-left: 150px;
+    height: 10px;
+    width: 20px;
+    margin-left: 10px;
     margin-top: 40px;
 }
 #carouselExampleSlidesOnly2 {
-    height: 100px;
-    width: 200px;
-    margin-left: 900px;
-    margin-top: -500px;
+    height: 10px;
+    width: 20px;
+    margin-left: 90px;
+    margin-top: -50px;
 }
 #usrform {
     margin-left: 1200px;
@@ -204,3 +204,20 @@ a:hover {
 #here {
     font-size:18px;
 }
+#edit {
+    width:550px;
+    height:650px;
+    padding:10px;
+    margin-left:150px;
+    margin-top:50px;
+}
+#you {
+    width:550px;
+    height:650px;
+    padding:10px;
+    margin-left:800px;
+    margin-top:-670px;
+}
+
+
+
