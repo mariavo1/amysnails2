@@ -70,11 +70,13 @@ a:hover {
 } 
 #welcome {
     font-size: 60px;
+    font-weight: bold;
 }
 #hourshome {
     position: relative;
     bottom: 500px;
     margin-left: 8  0px;
+    font-weight: bold;
 }
 #footer {
     background-color: #2b2929;
@@ -107,6 +109,7 @@ a:hover {
     height: 325px;
     padding: 25px;
     background-color: rgba(255, 255, 255, 0.65);
+    font-weight: bold;
 }
 .gmap_canvas {
     position: fixed;
@@ -118,9 +121,10 @@ a:hover {
 #description {
     margin-left: 150px;
     margin-right: 10px;
+    Color:black;
     position: relative;
-    left: 340px;
-    width: 700px;
+    left: 290px;
+    width: 800px;
     height: 375px;
     padding: 20px;
     background-color: white;
@@ -219,6 +223,7 @@ a:hover {
 }
 #here {
     font-size:18px;
+    color:black;
 }
 #edit {
     width:550px;
