@@ -18,7 +18,7 @@ body {
     width: 100%;
 }
 #logo {
-    font-family: 'Poiret One', cursive;
+    font-family: 'Quicksand', sans-serif;
     font-size: 31px;
     font-weight: bold;
     color: #f7f4f4;
@@ -263,3 +263,4 @@ a:hover {
     background-color: rgba(255, 255, 255, 0.65);
     margin-top: 17px;
 }
+
